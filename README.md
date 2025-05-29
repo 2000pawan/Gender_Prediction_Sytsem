@@ -73,6 +73,20 @@ It uses grayscale facial pixel values, resized to 90x90, as input features.
 
 Prediction is made using a pre-trained model saved as model.pkl.
 
+## Screenshots
+
+## Screenshots
+
+### 🔐 Login Page
+![Login Page](login.png)
+
+### 🏠 Main Menu
+![Main Menu](screenshots/main.png)
+
+### 📷 Image Prediction Example
+![Prediction](screenshots/image_prediction.png)
+
+
 ## 🖼 Sample Output
 
 A bounding box and label (e.g., Gender: Male) are drawn around detected faces in images or video frames.
