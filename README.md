@@ -30,20 +30,20 @@ This is a GUI-based application built with **Python**, **Tkinter**, **OpenCV**, 
 
 ## 📁 Project Structure
 
-Gender-Prediction-System
+    Gender-Prediction-System/
 
-    ├── model.pkl # Trained gender classification model
+       ├── model.pkl # Trained gender classification model
 
-    ├── haarcascade_frontalface_default.xml # Face detection model
+       ├── haarcascade_frontalface_default.xml # Face detection model
 
-    ├── app.py # Main application code
+       ├── app.py # Main application code
 
-    ├── README.md # Project documentation 
+       ├── README.md # Project documentation 
 
-    ├── screenshots/
-      ├── login_page.png
-      ├── main_menu.png
-      └── image_prediction.png
+       ├── screenshots/
+           ├── login_page.png
+           ├── main_menu.png
+           |── image_prediction.png
 
 
 ---
