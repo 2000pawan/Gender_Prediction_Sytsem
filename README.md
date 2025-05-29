@@ -104,7 +104,7 @@ Replace the current model.pkl with your own if needed.
 
 ## 👨‍💻 Developed By
 
-Pawan Yadav
+PAWAN YADAV
 
 (AI Engineer) | 2025
 
