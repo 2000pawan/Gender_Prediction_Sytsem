@@ -98,7 +98,7 @@ A bounding box and label (e.g., Gender: Male) are drawn around detected faces in
 
 ## 📌 Notes
 
-To train your own model, use a labeled dataset of facial images and preprocess them into grayscale 90x90 arrays.
+To train your own model, use a labeled dataset of facial images and preprocess them into grayscale 90x90 arrays. If any Problem occur then use Gender Prediction.ipynb file for step by step process.
 
 Replace the current model.pkl with your own if needed.
 
