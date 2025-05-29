@@ -40,6 +40,11 @@ Gender-Prediction-System
 
     ├── README.md # Project documentation 
 
+    ├── screenshots/
+      ├── login_page.png
+      ├── main_menu.png
+      └── image_prediction.png
+
 
 ---
 
@@ -81,10 +86,10 @@ Prediction is made using a pre-trained model saved as model.pkl.
 ![Login Page](login.png)
 
 ### 🏠 Main Menu
-![Main Menu](screenshots/main.png)
+![Main Menu](main.png)
 
 ### 📷 Image Prediction Example
-![Prediction](screenshots/image_prediction.png)
+![Prediction](image_prediction.png)
 
 
 ## 🖼 Sample Output
