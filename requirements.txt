@@ -1,0 +1,4 @@
+opencv-python
+joblib
+numpy
+Pillow
