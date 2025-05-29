@@ -32,7 +32,7 @@ This is a GUI-based application built with **Python**, **Tkinter**, **OpenCV**, 
 
 Gender-Prediction-System
 
-     ├── model.pkl # Trained gender classification model
+    ├── model.pkl # Trained gender classification model
 
     ├── haarcascade_frontalface_default.xml # Face detection model
 
@@ -47,19 +47,16 @@ Gender-Prediction-System
 
 ### 1. Clone the Repository
 
-    ```bash
     https://github.com/2000pawan/Gender_Prediction_Sytsem.git
     cd Gender-Prediction-System
 
 ### 2. Install Dependencies
 Make sure you have Python 3 installed. Then, install required packages:
 
-       ```bash
        pip install opencv-python Pillow numpy scikit-learn joblib
 
 ### 3. Run the Application
 
-        ```bash
        python app.py
 
 ### 4. Login Credentials
